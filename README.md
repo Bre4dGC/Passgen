@@ -29,4 +29,3 @@ Word 3: secure
 
 Generated password: H3Ll0!W0rLd#S3CuR3!42$
 ```
-
